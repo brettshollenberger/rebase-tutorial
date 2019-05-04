@@ -1,0 +1,29 @@
+{
+  "name": "rebase",
+  "version": "1.0.0",
+  "description": "Code version A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-redux": "^5.0.7",
+    "redux": "^3.5.2",
+    "reselect": "^3.0.1",
+    "todomvc-app-css": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettshollenberger/rebase-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brettshollenberger/rebase-tutorial/issues"
+  },
+  "homepage": "https://github.com/brettshollenberger/rebase-tutorial#readme"
+}
